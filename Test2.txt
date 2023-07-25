@@ -15,3 +15,5 @@ feature3
 
 changes_3
 feature31
+
+ammend command change only message
